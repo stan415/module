@@ -1,2 +1,1 @@
-# module
-汉字类
+# hzttk
